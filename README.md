@@ -4,7 +4,7 @@
 Welcome to the Content-Based TMDB Movie Recommender project! This project leverages a dataset from TMDB (The Movie Database) available on Kaggle to provide personalized movie recommendations to users based on their selected movies. The recommendation system is built using Jupyter Lab, incorporating various data preprocessing and analysis techniques, including exploratory data analysis (EDA) with scikit-learn and NLTK (Natural Language Toolkit).
 
 # Data Sources
-The project utilizes a dataset sourced from Kaggle, specifically the TMDB dataset. This dataset includes essential information about movies, such as genres, movie ID, keywords, title, overview, cast, and crew details.
+The project utilizes a dataset sourced from Kaggle, specifically the TMDB dataset. This dataset includes essential information about movies, such as genres, movie ID, keywords, title, overview, cast, and crew details. Dataset link: https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata?resource=download
 
 # Recommendation System
 ## Features Considered
