@@ -1,7 +1,7 @@
-# Category-Based TMDB Movie Recommender Project
+# Content-Based TMDB Movie Recommender Project
 
 # Overview
-Welcome to the Category-Based TMDB Movie Recommender project! This project leverages a dataset from TMDB (The Movie Database) available on Kaggle to provide personalized movie recommendations to users based on their selected movie. The recommendation system is built using Jupyter Lab, incorporating various data preprocessing and analysis techniques, including exploratory data analysis (EDA) with scikit-learn and NLTK (Natural Language Toolkit).
+Welcome to the Content-Based TMDB Movie Recommender project! This project leverages a dataset from TMDB (The Movie Database) available on Kaggle to provide personalized movie recommendations to users based on their selected movies. The recommendation system is built using Jupyter Lab, incorporating various data preprocessing and analysis techniques, including exploratory data analysis (EDA) with scikit-learn and NLTK (Natural Language Toolkit).
 
 # Data Sources
 The project utilizes a dataset sourced from Kaggle, specifically the TMDB dataset. This dataset includes essential information about movies, such as genres, movie ID, keywords, title, overview, cast, and crew details.
@@ -33,10 +33,11 @@ The project is implemented in Jupyter Lab, streamlining the entire process from 
 
 # Deployment
 The application is deployed using Heroku, providing users with a user-friendly interface to interact with the movie recommendation system. Users can input their favorite movie, and the system will promptly generate and display the top 5 recommended movies based on the selected film.
+*Please note that this part of the project is currently not working as I don't have a premium Heroku account*
 
 # How to Use
 Input: Provide the name of your favorite movie.
 Output: Receive a list of the top 5 recommended movies based on the selected movie's features.
-Explore the repository to delve into the codebase, understand the data processing steps, and witness the power of the Category-Based TMDB Movie Recommender.
+Explore the repository to delve into the codebase, understand the data processing steps, and witness the power of the Content-Based TMDB Movie Recommender.
 
 Feel free to contribute, offer suggestions, or report issues. Enjoy discovering new movies tailored to your taste!
