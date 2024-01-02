@@ -11,11 +11,16 @@ The project utilizes a dataset sourced from Kaggle, specifically the TMDB datase
 The recommendation system incorporates multiple features to enhance the accuracy and relevance of movie suggestions. These features include:
 
 *Genre*: Categorizes movies based on their genres.
+
 *ID*: Unique identifier for each movie in the dataset.
+
 *Keywords*: Important keywords associated with each movie.
+
 *Title*: The title of the movie.
+
 *Overview*: A brief summary of the movie.
-*Cast* and *Crew*: Extracting information from the top three actor names and the director name.
+
+*Cast* and *Crew*: Extracting information from the top three actor names and the director's name.
 
 # Text Processing
 To unify and process the textual data, the project employs the PorterStemmer library from NLTK for stemming words. This step is crucial for improving the model's accuracy by reducing words to their root forms.
