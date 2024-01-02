@@ -33,6 +33,7 @@ The project is implemented in Jupyter Lab, streamlining the entire process from 
 
 # Deployment
 The application is deployed using Heroku, providing users with a user-friendly interface to interact with the movie recommendation system. Users can input their favorite movie, and the system will promptly generate and display the top 5 recommended movies based on the selected film.
+
 *Please note that this part of the project is currently not working as I don't have a premium Heroku account*
 
 # How to Use
